@@ -1,0 +1,52 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .pricing-tables {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    background-color: grey;
+    text-align: center;
+    border-bottom: none;
+  }
+  
+  .card-body {
+    padding: 3rem;
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .list-unstyled {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+  }
+  
+  .list-unstyled li {
+    padding: 0.5rem 0;
+  }
+  
+  .btn-primary {
+    background-color:black;
+    border-color: blue;
+    font-size: 1.2rem;
+    padding: 1.00rem 1.5rem;
+  }
+  
+  .btn-primary:hover {
+    background-color:black;
+    border-color:blue;
+  }
+  
